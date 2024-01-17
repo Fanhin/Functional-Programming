@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.11.4",
+    "typescript": "^5.3.3"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node build/index.js"
+  },
+  "dependencies": {
+    "effect": "^2.1.0"
+  }
+}
